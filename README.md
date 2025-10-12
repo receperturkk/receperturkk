@@ -16,7 +16,7 @@
 ---
 
 <p align="left">
-Sakarya Uygulamalı Bilimler Üniversitesi Bilgisayar Programcılığı bölümünden <strong>birincilikle</strong> mezun oldum. Kariyerime stajyer olarak başladığım <a href="https://www.eryaz.com/" target="_blank">Eryaz Bilgi Teknolojileri</a>'nde, şu an tam zamanlı bir <strong>.NET Geliştiricisi</strong> olarak devam ediyorum. Özellikle B2B/B4B yazılım çözümleri ve ödeme sistemleri entegrasyonları alanında uzmanlaştım. 
+Sakarya Uygulamalı Bilimler Üniversitesi Bilgisayar Programcılığı bölümünden <strong>birincilikle</strong> mezun oldum. Kariyerime stajyer olarak başladığım Eryaz Bilgi Teknolojileri'nde, şu an tam zamanlı bir <strong>.NET Geliştiricisi</strong> olarak devam ediyorum. Özellikle B2B/B4B yazılım çözümleri ve ödeme sistemleri entegrasyonları alanında uzmanlaştım. 
 
 Şu anda hem profesyonel olarak çalışıyor hem de DGS ile geçiş yaptığım <strong>Beykoz Üniversitesi Yazılım Mühendisliği</strong> bölümünde lisans eğitimime devam ederek kendimi geliştirmeyi sürdürüyorum.
 </p>
@@ -26,11 +26,11 @@ Sakarya Uygulamalı Bilimler Üniversitesi Bilgisayar Programcılığı bölüm�
 ### 🚀 Hakkımda
 
 - 🔭 **Şu anki görevim:** Eryaz Bilgi Teknolojileri'nde B2B/B4B projeleri ve ödeme sistemleri üzerine çalışıyorum.
-- 🎓 🎓 **Eğitim:** Beykoz Üniversitesi'nde **Yazılım Mühendisliği** okuyorum ve Sakarya Uygulamalı Bilimler Üniversitesi **Bilgisayar Programcılığı** bölümünden 3.76 GNO ile mezun oldum.
+- 🎓 **Eğitim:** Beykoz Üniversitesi'nde **Yazılım Mühendisliği** okuyorum ve Sakarya Uygulamalı Bilimler Üniversitesi **Bilgisayar Programcılığı** bölümünden 3.76 GNO ile mezun oldum.
 - 🌱 **İlgi Alanlarım:** .NET ekosistemindeki yenilikler, dağıtık sistemler ve bulut teknolojileri.
 - 💬 **Bana Şunları Sorabilirsiniz:** C#, .NET Core, Angular ve ödeme sistemleri entegrasyonları.
 - 📫 **İletişim:** <p align="left">
-<a href="https://twitter.com/receperturk0" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" alt="receperturk0" height="40" width="40" /></a>
+<a href="https://twitter.com/receperturk0" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="receperturk0" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/recepkadirerturk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="recepkadirerturk" height="30" width="40" /></a>
 <a href="https://instagram.com/receperturk0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="receperturk0" height="30" width="40" /></a>
 </p>
