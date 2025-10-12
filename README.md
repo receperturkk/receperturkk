@@ -30,7 +30,7 @@ Sakarya Uygulamalı Bilimler Üniversitesi Bilgisayar Programcılığı bölüm�
 - 🌱 **İlgi Alanlarım:** .NET ekosistemindeki yenilikler, dağıtık sistemler ve bulut teknolojileri.
 - 💬 **Bana Şunları Sorabilirsiniz:** C#, .NET Core, Angular ve ödeme sistemleri entegrasyonları.
 - 📫 **İletişim:** <p align="left">
-<a href="https://twitter.com/receperturk0" target="_blank"><img align="center" src="[https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000](https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000)" alt="receperturk0" height="40" width="40" /></a>
+<a href="https://twitter.com/receperturk0" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" alt="receperturk0" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/recepkadirerturk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="recepkadirerturk" height="30" width="40" /></a>
 <a href="https://instagram.com/receperturk0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="receperturk0" height="30" width="40" /></a>
 </p>
